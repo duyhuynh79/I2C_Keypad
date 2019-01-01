@@ -1,5 +1,5 @@
 ###########################################
-# Syntax Coloring Map For DTH-I2C-Keypad-library
+# Syntax Coloring Map For DTH_I2CKeypad library
 ###########################################
 
 ###########################################
