@@ -11,7 +11,7 @@ DTH_I2CKeypad	KEYWORD1
 ###########################################
 # Enum (constants)
 ###########################################
-NO_KEY LITERAL1
+NO_KEY  LITERAL1
 IDLE	LITERAL1
 PRESSED	LITERAL1
 HOLD	LITERAL1
